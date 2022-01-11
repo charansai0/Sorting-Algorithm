@@ -54,8 +54,8 @@ print(value)
 
 ## Output:
 #1
-![OUTPUT]()
+![OUTPUT](https://github.com/charansai0/Sorting-Algorithm/blob/main/Screenshot%20(217).png?raw=true)
 #2
-![OUTPUT]()
+![OUTPUT](https://github.com/charansai0/Sorting-Algorithm/blob/main/Screenshot%20(218).png?raw=true)
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
